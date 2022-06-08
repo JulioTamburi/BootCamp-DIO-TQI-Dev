@@ -1,0 +1,28 @@
+Criador do HTML Tim Berners-Lee
+
+HTML 1 - 1991 
+HTML 2 - 1995
+HTML 3 - 1997
+HTML 4 - 1997
+HTML 5 - 2014
+
+
+<h1 class = "titulo">titulo</h1>
+
+<h1 - abrindo a tag
+class = "titulo" - Atributo
+titulo - Conteudo
+/h1> - fechamento da tag
+
+Estrutura Básica:
+
+<!DOCTYPE html>
+<html>
+<head> - metainformações
+	<meta>
+	<title></title>
+</head>
+<body>
+</body>
+</html>
+
