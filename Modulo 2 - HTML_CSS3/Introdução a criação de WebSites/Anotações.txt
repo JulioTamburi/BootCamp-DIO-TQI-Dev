@@ -26,3 +26,16 @@ Estrutura Básica:
 </body>
 </html>
 
+
+<p></p> parágrafo
+<a></a>
+<a href="www.google.com" target="_blank">texto</a> 
+USA-SE O TARGET="_BLANK" PARA ABRIR O LINK EM OUTRA PÁGINA
+USA-SE href="site" PARA COLOCAR O ENDEREÇO DE DESTINO.
+
+<a href="tel: 35 xxxxxxxxxx" target="_blank">texto</a>
+<a href="mailto:xxxxx@gmail.com" target="_blank">texto</a>
+
+
+<ul> lista de pontos </ul>
+<ol> lista ordenada </ol>
