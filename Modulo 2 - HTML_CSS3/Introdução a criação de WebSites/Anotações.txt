@@ -39,3 +39,21 @@ USA-SE href="site" PARA COLOCAR O ENDEREÇO DE DESTINO.
 
 <ul> lista de pontos </ul>
 <ol> lista ordenada </ol>
+
+CSS3
+
+Seletores: 
+a, p, h1, h3 {
+color: blue;
+font-size:14 px;
+}
+
+ID e Class
+
+id
+.header
+
+class
+#header
+
+ID pode ser utilizado uma vez na pagina
