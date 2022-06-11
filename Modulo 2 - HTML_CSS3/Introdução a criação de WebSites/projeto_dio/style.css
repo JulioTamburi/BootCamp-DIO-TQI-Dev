@@ -47,11 +47,11 @@ body{
     
 }
 .card-wrapper h2{
-font-size:40px;
-text-transform: uppercase;
-letter-spacing: 4px;
-margin:0;
-transition:0.3s;
+    font-size:40px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin:0;
+    transition:0.3s;
 
 
 }
